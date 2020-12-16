@@ -2,6 +2,8 @@ const { inspect } = require("util");
 const core = require("@actions/core");
 const github = require("@actions/github");
 
+// Test
+
 const REACTION_TYPES = [
   "+1",
   "-1",
